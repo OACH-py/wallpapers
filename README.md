@@ -1,3 +1,5 @@
+[**Español**](README-es.md) · [**English**](README.md)
+
 # Wallpapers
 
 432 wallpapers organized by source repo and dominant color. **66 MB total.**
